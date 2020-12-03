@@ -5,3 +5,6 @@ Nissan Sunny
 
 Volvo c40
 VW Polo
+
+Toyota Fortuner
+Ford Endeavor
